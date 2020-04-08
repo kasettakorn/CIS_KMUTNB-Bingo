@@ -3,8 +3,11 @@
   font-family: "Kanit";
 }
 .App {
-  background-color: rgb(188, 243, 253);
+  background-image: url("../image/notebook-1280538_1920.jpg");
 
+}
+.heading {
+  color: white;
 }
 .container {
   display: flex;
