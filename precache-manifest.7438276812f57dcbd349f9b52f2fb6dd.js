@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eaa886de6c8be3fdcaaf441417d8ad5",
+    "revision": "72bd380ba626a4b7e26662dd0faa0b5b",
     "url": "/CIS_KMUTNB-Bingo/index.html"
   },
   {
