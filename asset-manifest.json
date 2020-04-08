@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CIS_KMUTNB-Bingo/static/css/main.8a50b8b7.chunk.css",
+    "main.css": "/CIS_KMUTNB-Bingo/static/css/main.1101afd5.chunk.css",
     "main.js": "/CIS_KMUTNB-Bingo/static/js/main.0a23e1b8.chunk.js",
     "main.js.map": "/CIS_KMUTNB-Bingo/static/js/main.0a23e1b8.chunk.js.map",
     "runtime-main.js": "/CIS_KMUTNB-Bingo/static/js/runtime-main.f79a48ab.js",
@@ -8,16 +8,17 @@
     "static/js/2.18e2ddff.chunk.js": "/CIS_KMUTNB-Bingo/static/js/2.18e2ddff.chunk.js",
     "static/js/2.18e2ddff.chunk.js.map": "/CIS_KMUTNB-Bingo/static/js/2.18e2ddff.chunk.js.map",
     "index.html": "/CIS_KMUTNB-Bingo/index.html",
-    "precache-manifest.06a00ab90992334726d80212d0d4f68b.js": "/CIS_KMUTNB-Bingo/precache-manifest.06a00ab90992334726d80212d0d4f68b.js",
+    "precache-manifest.9bfdcd02043216d77c1d89d4b245e020.js": "/CIS_KMUTNB-Bingo/precache-manifest.9bfdcd02043216d77c1d89d4b245e020.js",
     "service-worker.js": "/CIS_KMUTNB-Bingo/service-worker.js",
-    "static/css/main.8a50b8b7.chunk.css.map": "/CIS_KMUTNB-Bingo/static/css/main.8a50b8b7.chunk.css.map",
+    "static/css/main.1101afd5.chunk.css.map": "/CIS_KMUTNB-Bingo/static/css/main.1101afd5.chunk.css.map",
     "static/js/2.18e2ddff.chunk.js.LICENSE.txt": "/CIS_KMUTNB-Bingo/static/js/2.18e2ddff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CIS_KMUTNB-Bingo/static/media/notebook-1280538_1920.da2ba89f.jpg",
     "static/media/red-1618916_1280.png": "/CIS_KMUTNB-Bingo/static/media/red-1618916_1280.8bd8d52f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f79a48ab.js",
     "static/js/2.18e2ddff.chunk.js",
-    "static/css/main.8a50b8b7.chunk.css",
+    "static/css/main.1101afd5.chunk.css",
     "static/js/main.0a23e1b8.chunk.js"
   ]
 }

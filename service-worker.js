@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CIS_KMUTNB-Bingo/precache-manifest.06a00ab90992334726d80212d0d4f68b.js"
+  "/CIS_KMUTNB-Bingo/precache-manifest.9bfdcd02043216d77c1d89d4b245e020.js"
 );
 
 self.addEventListener('message', (event) => {

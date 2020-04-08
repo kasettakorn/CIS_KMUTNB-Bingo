@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7a6ecd93ccc20be5bef972f0b3b4aea",
+    "revision": "6eaa886de6c8be3fdcaaf441417d8ad5",
     "url": "/CIS_KMUTNB-Bingo/index.html"
   },
   {
-    "revision": "a6446107b8d93a4b4ecf",
-    "url": "/CIS_KMUTNB-Bingo/static/css/main.8a50b8b7.chunk.css"
+    "revision": "f4f08bff194daa35fa11",
+    "url": "/CIS_KMUTNB-Bingo/static/css/main.1101afd5.chunk.css"
   },
   {
     "revision": "b6f3a1dd2ea2487b17a7",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CIS_KMUTNB-Bingo/static/js/2.18e2ddff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6446107b8d93a4b4ecf",
+    "revision": "f4f08bff194daa35fa11",
     "url": "/CIS_KMUTNB-Bingo/static/js/main.0a23e1b8.chunk.js"
   },
   {
     "revision": "40f92e89525cc43b906b",
     "url": "/CIS_KMUTNB-Bingo/static/js/runtime-main.f79a48ab.js"
+  },
+  {
+    "revision": "da2ba89f09178e950c6664cf583b4f69",
+    "url": "/CIS_KMUTNB-Bingo/static/media/notebook-1280538_1920.da2ba89f.jpg"
   },
   {
     "revision": "8bd8d52f7221a4473f7e03a4e75e72ae",
