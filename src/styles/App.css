@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:400,300&subset=thai,latin');
+* {
+  font-family: "Kanit";
+}
+.App {
+  background-color: rgb(188, 243, 253);
+
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  
+}
+.bingoBoard  {
+  border: 5px solid black;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+tr {
+  display: grid;
+  grid-template-columns: repeat(5, 3fr);
+  gap: 10px;
+  margin-top: 15px;
+  
+}
+td:hover, .circle:hover {
+  cursor: pointer;
+}
+button {
+  width: 7vw;
+  height: 10vh;
+  font-size: 18px;
+  font-weight: 400;
+  border: none;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+  background-color: bisque;
+
+  padding: 5px;
+}
+
+td > .circle {
+  z-index: 1;
+  width: 6vw;
+  margin-left: 5px;
+  position: absolute;
+  opacity: 0.7;
+}
+button:hover {
+  border: 2px solid black;
+}
+button:disabled:hover {
+  border: none;
+}
+
+/*? iPad mini and min-width  */
+@media (max-width: 768px) {
+  tr {
+    gap: 2px;
+  }
+  button {
+    width: 16vw;
+    height: 12vh;
+    font-size: 11px;
+    font-weight:400;
+    border: none;
+    color: black;
+  
+  }
+  td > .circle {
+    width: 15vw;
+    margin-left: 5px;
+
+  }
+}
+/*? iPhone 8 */
+@media (max-width: 390px) {
+  tr {
+    gap: 2px;
+  }
+  button {
+    width: 19vw;
+    height: 10vh;
+    font-size: 10px;
+    border: none;
+    color: black;
+    
+  }
+}
+/*? iPhone SE */
+@media (max-width: 320px) {
+  tr {
+    display: grid;
+    grid-template-columns: repeat(5, 3fr);
+    gap: 2px;
+  }
+  button {
+    width: 18vw;
+    height: 14vh;
+    font-size: 10px;
+    word-wrap: break-word;
+
+
+  }
+  td > .circle {
+    width: 15vw;
+    margin-left: 5px;
+    margin-top: 10px;
+
+  }
+}
